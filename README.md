@@ -5,7 +5,7 @@ Learning react-native basic
  2. Props, Component tutorials
  
 # install react-native
-install note.js
+install note.js<br>
 npm install -g react-native-cli
 
 # init project
