@@ -1,9 +1,14 @@
 ### react-native-learning
-Learning react-native basic
+Learning react-native basic with many example
 
  1. Hello World project
  2. Props, Component tutorials
  3. State in React Native
+ 4. Dialpad view
+ 5. Note app
+ 6. Chat view app
+ 7. Login view client and server
+ 8. Image
  
 ### install react-native
 install note.js<br>
