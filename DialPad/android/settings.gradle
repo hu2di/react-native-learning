@@ -1,0 +1,3 @@
+rootProject.name = 'Caculator'
+
+include ':app'
