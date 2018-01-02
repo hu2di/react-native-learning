@@ -10,6 +10,7 @@ Learning react-native basic with many example
  7. Login view client and server
  8. Image
  9. E Commerce
+ 10. Component LifeCycle
  
 ### install react-native
 install note.js<br>
